@@ -1,0 +1,25 @@
+section {
+  position: relative;
+  padding: 7rem 0;
+}
+
+img {
+  user-select: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+::selection {
+  background: #ff6b00;
+  color: white;
+}
+
+.luxury-shadow {
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.35);
+}
+
+.orbit-ring {
+  border: 1px solid rgba(255, 107, 0, 0.18);
+}
