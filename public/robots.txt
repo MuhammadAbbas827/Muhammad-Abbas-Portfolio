@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://muhammad-abbas-web.netlify.app/sitemap.xml
